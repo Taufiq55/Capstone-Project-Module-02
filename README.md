@@ -69,4 +69,4 @@ The Kruskal-Wallis test reveals no significant difference in median sales and pr
 This analysis provides critical insights into the effects of discount strategies on profitability and customer behavior. By leveraging RFM analysis and regional insights, we can optimize discount strategies to maximize profit while maintaining customer satisfaction and loyalty.
 
 ## 
-For further visualization here is the tableau dashboard : https://public.tableau.com/views/CapstoneProject02_17229993915800/AmazonAWSSaaSSalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+For further visualization here is the [tableau dashboard.](https://public.tableau.com/views/CapstoneProject02_17229993915800/AmazonAWSSaaSSalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
